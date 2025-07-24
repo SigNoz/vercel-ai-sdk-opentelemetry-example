@@ -8,6 +8,12 @@ First, install all the necessary dependencies:
 pnpm install
 ```
 
+Next create a .env.local file with the following:
+```bash
+OPENAI_API_KEY=<your-openai-api-key>
+SIGNOZ_INGESTION_KEY=<your-signoz-ingestion-key>
+```
+
 
 Then, run the development server:
 
@@ -15,7 +21,8 @@ Then, run the development server:
 pnpm dev
 ```
 
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
 
 
