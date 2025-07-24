@@ -44,7 +44,7 @@ After usign the chatbot, you should be able to view traces and logs in your SigN
 
 
 
-You can also create custom dashboards using these logs and traces attributes:
+## You can also create custom dashboards using these logs and traces attributes:
 
 <img width="714" height="153" alt="input_output_tokens" src="https://github.com/user-attachments/assets/44e44388-f49e-4fc4-b74d-12375da90b8a" />
 <img width="710" height="297" alt="feedback_distribution" src="https://github.com/user-attachments/assets/202ea601-2d0d-4107-8b80-1c5a9fb70a72" />
