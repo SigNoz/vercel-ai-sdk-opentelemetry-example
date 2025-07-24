@@ -25,10 +25,13 @@ In your terminal, you should see output from OpenTelemetry when the application 
 <img width="719" height="264" alt="vercel-run-output" src="https://github.com/user-attachments/assets/e1249669-ddfb-4b0b-a712-b75068017859" />
 
 
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result and interact with the application.
 
 
+
 After usign the chatbot, you should be able to view traces and logs in your SigNoz Cloud platform:
+
 
 ### Traces
 <img width="1203" height="582" alt="vercel-traces-view" src="https://github.com/user-attachments/assets/36be9f07-7b03-41e6-a7ae-af196946a5c1" />
@@ -40,7 +43,9 @@ After usign the chatbot, you should be able to view traces and logs in your SigN
 <img width="889" height="649" alt="feedback_log" src="https://github.com/user-attachments/assets/2b429651-4240-49f6-94c9-a1f819bc6c22" />
 
 
+
 You can also create custom dashboards using these logs and traces attributes:
+
 <img width="714" height="153" alt="input_output_tokens" src="https://github.com/user-attachments/assets/44e44388-f49e-4fc4-b74d-12375da90b8a" />
 <img width="710" height="297" alt="feedback_distribution" src="https://github.com/user-attachments/assets/202ea601-2d0d-4107-8b80-1c5a9fb70a72" />
 <img width="701" height="297" alt="starter_message_distribution" src="https://github.com/user-attachments/assets/28069233-be16-434e-8448-93e31c2f3567" />
