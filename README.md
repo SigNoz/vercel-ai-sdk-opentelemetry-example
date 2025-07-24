@@ -30,7 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 
-After usign the chatbot, you should be able to view traces and logs in your SigNoz Cloud platform:
+## After usign the chatbot, you should be able to view traces and logs in your SigNoz Cloud platform:
 
 
 ### Traces
