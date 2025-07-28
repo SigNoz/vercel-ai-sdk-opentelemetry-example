@@ -45,12 +45,18 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## You can also create custom dashboards using these logs and traces attributes:
+### Import Dashboard
+Go to the **Dashboards** tab in SigNoz.
 
-<img width="714" height="153" alt="input_output_tokens" src="https://github.com/user-attachments/assets/44e44388-f49e-4fc4-b74d-12375da90b8a" />
-<img width="710" height="297" alt="feedback_distribution" src="https://github.com/user-attachments/assets/202ea601-2d0d-4107-8b80-1c5a9fb70a72" />
-<img width="701" height="297" alt="starter_message_distribution" src="https://github.com/user-attachments/assets/28069233-be16-434e-8448-93e31c2f3567" />
-<img width="711" height="143" alt="requests_latency" src="https://github.com/user-attachments/assets/4448d612-4510-4f9c-9a5d-fc78e7101e22" />
+Click on **+ New Dashboard**
 
+Go to **Import JSON**
+<img width="1510" height="788" alt="Screenshot 2025-07-28 at 12 05 38 PM" src="https://github.com/user-attachments/assets/d59b5d6f-be3f-4513-ba5e-1be0a74ad968" />
+
+Import the **Vercel Chatbot.json** file from the repo.
+
+Your dashboard should now be imported and look something like this:
+<img width="1506" height="800" alt="Screenshot 2025-07-28 at 12 04 06 PM" src="https://github.com/user-attachments/assets/d4aa9e73-c5f8-4c78-b426-dbdb84d42bf4" />
 
 
 
