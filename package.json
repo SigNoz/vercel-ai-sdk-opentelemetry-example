@@ -22,7 +22,7 @@
     "@opentelemetry/sdk-trace-node": "^2.0.1",
     "@opentelemetry/semantic-conventions": "^1.36.0",
     "@vercel/otel": "^1.13.0",
-    "ai": "^4.3.18",
+    "ai": "^5.0.52",
     "next": "15.3.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
